@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\kt11.2\kt11.2\bin\Debug\net8.0\kt11.2.exe
+C:\Users\User\source\repos\kt11.2\kt11.2\bin\Debug\net8.0\kt11.2.deps.json
+C:\Users\User\source\repos\kt11.2\kt11.2\bin\Debug\net8.0\kt11.2.runtimeconfig.json
+C:\Users\User\source\repos\kt11.2\kt11.2\bin\Debug\net8.0\kt11.2.dll
+C:\Users\User\source\repos\kt11.2\kt11.2\bin\Debug\net8.0\kt11.2.pdb
+C:\Users\User\source\repos\kt11.2\kt11.2\obj\Debug\net8.0\kt11.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\kt11.2\kt11.2\obj\Debug\net8.0\kt11.2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\kt11.2\kt11.2\obj\Debug\net8.0\kt11.2.AssemblyInfo.cs
+C:\Users\User\source\repos\kt11.2\kt11.2\obj\Debug\net8.0\kt11.2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\kt11.2\kt11.2\obj\Debug\net8.0\kt11.2.dll
+C:\Users\User\source\repos\kt11.2\kt11.2\obj\Debug\net8.0\refint\kt11.2.dll
+C:\Users\User\source\repos\kt11.2\kt11.2\obj\Debug\net8.0\kt11.2.pdb
+C:\Users\User\source\repos\kt11.2\kt11.2\obj\Debug\net8.0\kt11.2.genruntimeconfig.cache
+C:\Users\User\source\repos\kt11.2\kt11.2\obj\Debug\net8.0\ref\kt11.2.dll
